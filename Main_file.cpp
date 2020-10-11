@@ -427,5 +427,6 @@ void medicineType::daily_summary()		//Function to display Daily Summary
 void medicineType::exit() //Function to exit
 {
     cout<<"\nYou choose to exit.\n"<<endl;
+    cout<<"SHwetabh patel"<<endl;
 }	//end function exit
 
