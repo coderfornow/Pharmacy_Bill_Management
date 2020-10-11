@@ -7,6 +7,7 @@
 #include <cstdio>
 #include <fstream>
 #include <iomanip>
+#include<stdio.h>
 #define max 10
 
 using namespace std;
